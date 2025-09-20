@@ -1,19 +1,3 @@
-# Table of Contents
-
-1. Project Description
-2. Features Implemented
-3. Technical Architecture
-4. UI/UX Design Approach
-5. Responsive Design Strategy
-6. Code Structure & Organization
-7. Installation & Setup
-8. Testing & Validation
-9. Challenges & Solutions
-10. Future Enhancements
-11. Learning Outcomes
-
----
-
 ## Project Description
 
 This project is a responsive **stock trading dashboard** developed using the **Flutter framework**
